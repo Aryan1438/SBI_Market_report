@@ -15,8 +15,8 @@ The research focuses on understanding SBI as a listed banking company and evalua
 
 ## Research Materials
 
-- **SBI Initiation Report**: written research covering the company, sector context, investment-relevant observations, and the planned analytical approach.
-- **SBI Financial Model**: spreadsheet-based analysis used to organize financial data and support the research process.
+- **[SBI Initiation Report](SBI_Initiation_Report.docx)**: written research covering the company, sector context, investment-relevant observations, and the planned analytical approach.
+- **[SBI Financial Model](SBI_Financial_Model.xlsx)**: spreadsheet-based analysis used to organize financial data and support the research process.
 
 ## Purpose of This Repository
 
